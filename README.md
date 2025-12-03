@@ -112,7 +112,7 @@ System-level simulation features:
 
 ---
 
-## **6. Validation Workflow **
+## **6. Validation Workflow**
 
 This README should list the same **phased validation pipeline** we’re building:
 
