@@ -157,7 +157,7 @@ sim('RefrigerantLoop_main')
 
 ---
 
-## 📎 **8. Included Documents**
+## **8. Included Documents**
 
 You can list uploaded engineering artifact PDFs here:
 
